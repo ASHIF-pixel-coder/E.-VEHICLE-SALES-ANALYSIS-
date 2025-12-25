@@ -7,4 +7,6 @@ calculated fields are:
 4.total PHEV vehicle = countd( if [electric vehicle type] = 'PHEV' then [vehicle id] end 
 
 creating parameter by finding top N 
+
+ creating aliases to avoid unneccesary spaces 
  
